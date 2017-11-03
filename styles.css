@@ -1,0 +1,11 @@
+tr.uneven {
+	background: #F5DEB3;
+}
+
+tr.even{
+	background: #BC8F8F;
+}
+
+table {
+	border-collapse: collapse;
+}
